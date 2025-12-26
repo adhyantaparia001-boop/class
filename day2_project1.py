@@ -1,0 +1,6 @@
+num1 =  int(input("Enter a number : "))
+num2 =  float(input("Enter a decimal number : "))
+print(f"sum of the two numbers is {num1+num2}")
+print(f"Difference10 of the two numbers is {num1-num2}")
+print(f"Product of the two numbers is {num1*num2}")
+print(f"Quotient of the two numbers is {num1/num2}")
