@@ -1,2 +1,2 @@
 name = "Devansh"
-print(name + str(18))
+print(name,str(18))
